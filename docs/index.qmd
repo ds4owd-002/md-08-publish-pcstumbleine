@@ -1,10 +1,11 @@
 ---
 title: "A minimal example"
 date: today
-author: First Last 
+author: Padraic Casserly
 format:
   html:
     toc: true
+    code-fold: true
 execute:
   warning: false
 editor: visual
